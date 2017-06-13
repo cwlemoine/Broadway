@@ -37,6 +37,7 @@ p {
 a {
   font-size: 18px;
   color: white;
+  text-decoration: underline;
 }
 
 .footer {
